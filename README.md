@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Frontend
 - 🌱 I’m currently learning y ...
 - 💞️ I’m looking to collabo
-- 📫 How to reach me ...
+
 
 <!---
 MilaSys/MilaSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
